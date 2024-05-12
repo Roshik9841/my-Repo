@@ -1,4 +1,7 @@
 git config --global
+git config --list
+git config user.name "Roshik Maharjan"
+git config user.email "Roshik9841@gmail.com"
 git status = to see status
 git add READMe.txt = to add file 
 git commit -m "Initial Commit" = for commitment
